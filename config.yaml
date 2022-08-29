@@ -16,7 +16,7 @@ chains:
         output-format: json
         sign-mode: direct
     gaia-testnet:
-        key: ser
+        key: beril
         chain-id: GAIA
         rpc-addr: http://176.126.87.207:23657
         grpc-addr: http://176.126.87.207:23090
